@@ -29,7 +29,8 @@ The following machine learning algorithms were implemented in this project:
 ### Results
 
 The project includes detailed results of model performance, including metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared. The model's effectiveness is demonstrated through comparison with baseline methods and other machine learning approaches.
-#Türkçe
+
+#TÜRKÇE
 
 # Airbnb Fiyat Tahmini
 
